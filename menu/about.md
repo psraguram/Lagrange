@@ -7,4 +7,4 @@ SKULLCTRL is an indie game studio which aims to develop addictive simulation gam
 
 ### Contact
 
-For any queries contact  [raguram](https://twitter.com/raguram_)
+For any queries contact the [developer](https://twitter.com/raguram_)
