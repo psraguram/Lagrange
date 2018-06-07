@@ -7,8 +7,10 @@ google-ID: ''
 
 menu:
 - {name: 'Games', path: 'menu', url: 'Games.html'}
-- {name: 'About', path: 'menu', url: 'About.html'}
+- {name: 'Forum', path: 'menu', url: 'Forum.html'}
 - {name: 'Archives', path: 'menu', url: 'Archives.html'}
+- {name: 'About', path: 'menu', url: 'About.html'}
+
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
